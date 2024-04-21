@@ -1,5 +1,5 @@
 {
-  "name": "PHP-Compiler-Node",
+  "name": "php-compiler-node",
   "version": "1.0.0",
   "description": "PHP Compiler Node is a Node.js package for compiling PHP code using the CodeGyan PHP compiler API.",
   "type": "module",

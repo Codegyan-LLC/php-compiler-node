@@ -8,15 +8,15 @@ You can install PHP Compiler Node via npm or yarn:
 
 ```bash
 # via npm
-npm install PHP-Compiler-Node
+npm install php-compiler-node
 
 # via yarn
-yarn add PHP-Compiler-Node
+yarn add php-compiler-node
 ```
 
 ## Usage
 ```js
-import compilePhpCode from 'PHP-Compiler-Node';
+import compilePhpCode from 'php-compiler-node';
 
 const API_KEY = "<YOUR_API_KEY>";
 const CLIENT_ID = "<YOUR_CLIENT_ID>";
