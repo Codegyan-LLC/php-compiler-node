@@ -18,8 +18,6 @@
 
 import axios from "axios";
 
-
-
 let compilePhpCode = async function (
   apiKey,
   clientId,
@@ -49,7 +47,5 @@ let compilePhpCode = async function (
 
   return response;
 };
-
-
 
 export default compilePhpCode;

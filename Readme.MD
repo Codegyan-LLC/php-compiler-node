@@ -35,5 +35,5 @@ Replace <YOUR_API_KEY> and <YOUR_CLIENT_ID> with your actual API key and client 
 
 ## License
 
-This package is licensed under the MIT License. See the LICENSE file for details.
+This package is licensed under the ISC License.
 
