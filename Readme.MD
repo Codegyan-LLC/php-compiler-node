@@ -46,7 +46,9 @@ compilePhpCode(API_KEY, CLIENT_ID, code)
 ```
 Replace <YOUR_API_KEY> and <YOUR_CLIENT_ID> with your actual API key and client ID provided by Codegyan. Pass the PHP code you want to compile to the compilePhpCode function.
 
-## License
+## Contributing
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this SDK.
 
-This package is licensed under the ISC License.
+## License
+This Codegyan SDK is open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
 
