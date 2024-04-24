@@ -5,7 +5,7 @@
 ![npm collaborators](https://img.shields.io/npm/collaborators/php-compiler-node)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/php-compiler-node)
 
-PHP Compiler Node is a Node.js package for compiling PHP code using the CodeGyan PHP compiler API.
+PHP Compiler Node is a Node.js package for compiling PHP code using the Codegyan PHP compiler API.
 
 ## Installation
 
@@ -47,7 +47,7 @@ compilePhpCode(API_KEY, CLIENT_ID, code)
 Replace <YOUR_API_KEY> and <YOUR_CLIENT_ID> with your actual API key and client ID provided by Codegyan. Pass the PHP code you want to compile to the compilePhpCode function.
 
 ## Contributing
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this SDK.
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve this pakage.
 
 ## License
 This Codegyan SDK is open-sourced software licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
