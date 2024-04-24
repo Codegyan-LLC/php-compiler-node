@@ -6,6 +6,18 @@
   "main": "src/index.js",
   "author": "Codegyan",
   "license": "ISC",
+  "keywords": [
+    "promise",
+    "async",
+    "api",
+    "codegyan",
+     "compiler api",
+    "php compiler api",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecodegyan/php-compiler-node.git"
+  },
   "dependencies": {
     "axios": "^1.6.8"
   },
