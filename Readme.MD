@@ -20,6 +20,14 @@ yarn add php-compiler-node
 ```
 
 ## Usage
+Before using the Pakage, you need to obtain an API key and client ID from Codegyan. Follow these steps to get your API credentials:
+
+1. **Sign Up/Login**: If you don't have an account, sign up for a [Codegyan account](https://codegyan.in/account/signup.php). If you already have an account, log in to your dashboard.
+
+2. **Get Credentials**: Once logged in, navigate to the [Developer Console](https://developer.codegyan.in/) or API settings in your account dashboard. Here, you will find your API key and client ID. Copy these credentials and use them when initializing the Pakage in your code.
+
+Here's an example of how to initialize the npm pakage with your API key and client ID:
+
 ```js
 import compilePhpCode from 'php-compiler-node';
 
@@ -36,7 +44,7 @@ compilePhpCode(API_KEY, CLIENT_ID, code)
         console.error('Compilation Error:', error);
     });
 ```
-Replace <YOUR_API_KEY> and <YOUR_CLIENT_ID> with your actual API key and client ID provided by CodeGyan. Pass the PHP code you want to compile to the compilePhpCode function.
+Replace <YOUR_API_KEY> and <YOUR_CLIENT_ID> with your actual API key and client ID provided by Codegyan. Pass the PHP code you want to compile to the compilePhpCode function.
 
 ## License
 
