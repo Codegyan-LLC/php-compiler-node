@@ -1,5 +1,10 @@
 # PHP Compiler Node
 
+![npm version](https://img.shields.io/npm/v/php-compiler-node)
+![npm downloads](https://img.shields.io/npm/dt/php-compiler-node)
+![npm collaborators](https://img.shields.io/npm/collaborators/php-compiler-node)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/php-compiler-node)
+
 PHP Compiler Node is a Node.js package for compiling PHP code using the CodeGyan PHP compiler API.
 
 ## Installation
